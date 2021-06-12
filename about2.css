@@ -1,0 +1,16 @@
+body{
+background-image:url("photo/slide6.png");
+background-size:cover;
+background-repeat: no-repeat;
+}
+
+p
+{
+text-align: justify;
+text-spacing:2.5;
+color:black;
+width:500;
+height:40
+background-color:#FAE5D3;
+font-family:"times new roman"
+}
